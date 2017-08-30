@@ -10,6 +10,8 @@ namespace GitAppAttempt14
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitApp Attempt 14");
+            Console.ReadKey();
         }
     }
 }
